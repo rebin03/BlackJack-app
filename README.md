@@ -19,6 +19,10 @@ This application allows users to play a blackjack game. The user can start the g
 - Simple and intuitive user interface.
 - Basic gameplay mechanics for blackjack.
 
+## Live Demo
+
+You can try the live demo [here](https://black-jackapp.netlify.app/).
+
 ## Installation
 
 1. Clone this repository to your local machine:
