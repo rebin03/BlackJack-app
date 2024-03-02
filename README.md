@@ -1,4 +1,4 @@
-# Simple Blackjack App
+# Blackjack App
 
 This is a simple blackjack web application built using HTML, CSS, and JavaScript.
 
